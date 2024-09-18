@@ -2,7 +2,7 @@
  
  • What problems does this tool solve?
 
- this AI tool which was formally known as Bing AI is can link to your Microsoft 365 account to aid you with many catergories such as 
+ this Chatbot AI tool which was formally known as Bing AI is can link to your Microsoft 365 account to aid you with many catergories such as 
 - Answer Questions with suggested/similar anwsers, help with Productivity Assistance e.g manage your schedule (microsoft calender), set   reminders, draft emails, and more.
 - Creative Writing
 - Learning and Education:
