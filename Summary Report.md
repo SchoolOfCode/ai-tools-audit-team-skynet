@@ -23,4 +23,19 @@ Microsoft AI:
 - Also ideal for finding upcoming events with links to information about the events, and how to get to the recommened events. 
 
 Splash AI: 
-- 
+- generating sample music via use of twxt prompted questions, create vocals in with desired vocals characteristics (eg. sing like Charlie XCX) 
+- Provides a direct commercial license to which can allow the to  user obtain the right to use a copyrighted song or recording  within their library on commercial project by obtaining permission directly from the legal rights holder.
+- the limitation of this would be full ownership is held in the hands of the site owners, also that the sample do not have the ability to be edited within the platform and must be exported to a second party DAW.
+
+Asana:
+- It is a scalable workflow and project manager that can connect multiple third party apps (such as gmail. outlook, slack, onedrive etc.) in it's own platform
+- The tools Asana provides take away frustrating thought processes and task delegation, where as a product like Monday.com does not have that feature implemented. 
+- All though it's very scalable the cost in time and pirce of initialising the application can be cumbersome to large organisations.
+
+
+Conclusion
+-
+In conclusion, for users looking to deeply utilise an AI chatbot Microsoft AI is not the tool to do so, however it has great capacity to be used as a citation tool for desired references and current events.
+
+
+
